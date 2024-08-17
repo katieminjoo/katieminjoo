@@ -16,8 +16,8 @@
 ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white) katie.minjoo@gmail.com
 
 ### 🫶 LOVES 
-![](https://img.shields.io/badge/Pinterest-BD081C?style=for-the-badge&logo=Pinterest&logoColor=white)
 <a href = 'https://open.spotify.com/album/2lIZef4lzdvZkiiCzvPKj7?si=8h4CTEtPRUydRsbQx4oXig'><img src = 'https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white'/></a>
+![](https://img.shields.io/badge/Pinterest-BD081C?style=for-the-badge&logo=Pinterest&logoColor=white)
 <!--
 **katieminjoo/katieminjoo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
