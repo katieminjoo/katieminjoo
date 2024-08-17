@@ -15,7 +15,7 @@
 <a href="https://www.linkedin.com/in/katie-minjoo-kim-9335ab218/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white) katie.minjoo@gmail.com
 
-### 🫶 LOVES 
+### 🫶 LOVES !!!
 <a href = 'https://open.spotify.com/album/2lIZef4lzdvZkiiCzvPKj7?si=8h4CTEtPRUydRsbQx4oXig'><img src = 'https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white'/></a>
 ![](https://img.shields.io/badge/Pinterest-BD081C?style=for-the-badge&logo=Pinterest&logoColor=white)
 <!--
