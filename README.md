@@ -1,7 +1,7 @@
 ### 👋 Hi there! I’m Katie, a Data Scientist with a knack for turning complex data into actionable insights.
 
- I’ve worked across various industries, building machine learning models that solve real-world problems, from optimizing processes to detecting anomalies. I love diving into data, whether it's feature engineering, predictive modeling, or bringing a project from concept to deployment. When I’m not crunching numbers, you’ll find me collaborating with teams to create impactful, data-driven solutions. Let’s build something awesome together!
-
+ I’ve worked across various industries, building machine learning models that solve real-world problems, from optimizing processes to detecting anomalies.
+  I love diving into data, whether it's feature engineering, predictive modeling, or bringing a project from concept to deployment.
 ### 🚀 Skills
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
