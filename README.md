@@ -5,12 +5,12 @@ I'm Katie, a Data Scientist with a knack for turning complex data into actionabl
 
  I’ve worked across various industries, building machine learning models that solve real-world problems, from optimizing processes to detecting anomalies.
   I love diving into data, whether it's feature engineering, predictive modeling, or bringing a project from concept to deployment.  
- ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
 <!--
 Data Enthusiast: I'm constantly exploring the dynamic world of data, seeking insights and turning them into actionable knowledge.
 
@@ -24,7 +24,7 @@ Web Development Enthusiast: I'm also into front-end web development, creating us
 I'm always up for a good chat! Feel free to reach out or connect with me:
 - 📧 Email: [katie.minjoo@gmail.com](mailto:katie.minjoo@gmail.com)
 - 💼 LinkedIn: [linkedin.com/in/katieminjookim](https://www.linkedin.com/in/katieminjookim/)
-- 🌐 Explore: [katieminjoo.github.io]([https://www.linkedin.com/in/katieminjookim/](https://katieminjoo.github.io/))
+- 🌐 Explore: [katieminjoo.github.io](https://katieminjoo.github.io/))
 
 Take a look around my repositories to see what I've been up to. Thanks for stopping by!
 
