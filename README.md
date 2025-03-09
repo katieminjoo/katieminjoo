@@ -24,7 +24,7 @@ Web Development Enthusiast: I'm also into front-end web development, creating us
 I'm always up for a good chat! Feel free to reach out or connect with me:
 - 📧 Email: [katie.minjoo@gmail.com](mailto:katie.minjoo@gmail.com)
 - 💼 LinkedIn: [linkedin.com/in/katieminjookim](https://www.linkedin.com/in/katieminjookim/)
-- 🌐 Explore: [katieminjoo.github.io](https://katieminjoo.github.io/))
+- 🌐 Explore: [katieminjoo.github.io](https://katieminjoo.github.io/)
 
 Take a look around my repositories to see what I've been up to. Thanks for stopping by!
 
